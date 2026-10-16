@@ -25,7 +25,7 @@
 | Portfolyo | Mevcut projeye görsel, açıklama, site ve depo bağlantılı kart eklendi. TypeScript ve üretim derlemesi geçti. |
 | Yapay zekâ beyanı | Site, README ve notebook içinde katkı kapsamı açık. Öğrenci yorum/metin incelemesi gerekli. |
 | Canlı HTTPS / GitHub / portfolyo | GitHub Actions yayını başarılı; canlı hikâye, filtreler ve portfolyo proje kartı tarayıcıda doğrulandı. Bağlantılar teslim.txt içinde. |
-| LinkedIn Post Inspector | Kontrol başlatıldı; Post Inspector oturum açma ekranına yönlendiriyor. Doğrulama sonucu henüz alınamadı; OG alanları ve paylaşım görseli sitede mevcut. |
+| LinkedIn Post Inspector | 16 Ekim 2026: Post Inspector ile canlı URL kontrol edildi. Başlık ve 1200 × 627 paylaşım görseli doğru; açıklama uzunluğu uyarısı giderildi. Kanıt: docs/linkedin-onizleme.png. Gönderi paylaşılmadı. |
 
 ## Teslimden önce öğrenci tarafından yapılacaklar
 

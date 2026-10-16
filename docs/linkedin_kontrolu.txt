@@ -1,0 +1,9 @@
+LinkedIn Post Inspector kontrolü — 16 Ekim 2026
+Kontrol edilen URL: https://kerimx54.github.io/veri-hikayesi/
+Başlık: Her 100 iadenin yaklaşık 45’i gecikiyor
+Paylaşım görseli: site/assets/paylasim.png (1200 × 627)
+İlk kontroldeki 100 karakterden kısa açıklama uyarısı og:description uzatılarak giderildi.
+Yeni yayın sonrası aynı URL yeniden Inspect ile kontrol edildi.
+Ekran görüntüsü: linkedin-onizleme.png
+Bu işlem LinkedIn gönderisi paylaşmaz. Gönderi yayımlanmadı.
+
