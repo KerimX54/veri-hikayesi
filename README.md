@@ -8,7 +8,9 @@ SAÜ Kütüphane Veri Seti’nde 2020–2024 yılları arasında gecikmeli iade 
 
 ## Bağlantılar
 
-Doğrulanmış canlı site, kaynak depo ve güncellenmiş portfolyo adresleri `teslim.txt` dosyasındadır. Yerel önizleme canlı yayın yerine geçmez.
+[Canlı hikâye](https://kerimx54.github.io/veri-hikayesi/) · [GitHub](https://github.com/KerimX54/veri-hikayesi) · [Portfolyo](https://kerimx54.github.io/veri-hikayesi/portfolyo/)
+
+Canlı bağlantılar tarayıcıda doğrulandı. Tüm teslim bağlantıları `teslim.txt` dosyasındadır.
 
 ## Yerelde çalıştırma
 
@@ -70,3 +72,4 @@ GitHub deposunda Settings → Pages → Source bölümünü GitHub Actions yapı
 ## Teslim öncesi
 
 `docs/kontrol_listesi.md` gerçek test sonuçlarını ve kalan işleri gösterir. LinkedIn’e gönderi paylaşılmadı; ödevde bu adım isteğe bağlıdır. Hazırlanan paylaşım metni 150–250 kelime aralığındadır. Kullanım lisansı, yorumların öğrenci incelemesi ve yayımlanmış bağlantıların son kontrolü öğrenci tarafından tamamlanmalıdır.
+

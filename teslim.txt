@@ -1,0 +1,35 @@
+VERİ HİKÂYESİ — TESLİM BAĞLANTILARI
+Yakup Kerim TİLKİ | 2516016032
+16 Ekim 2026
+
+Canlı scrollytelling sitesi:
+https://kerimx54.github.io/veri-hikayesi/
+
+Herkese açık GitHub deposu:
+https://github.com/KerimX54/veri-hikayesi
+
+Güncellenmiş portfolyo:
+https://kerimx54.github.io/veri-hikayesi/portfolyo/
+Proje kartı:
+https://kerimx54.github.io/veri-hikayesi/portfolyo/projeler/
+
+LinkedIn profili:
+https://www.linkedin.com/in/kerim-s-a78046267/
+Paylaşım taslağı: docs/linkedin_paylasim.txt
+Paylaşım görseli: docs/paylasim.png (1200 × 627)
+Gönderi yayımlanmadı; yayımlanmış gönderi bağlantısı yoktur.
+Post Inspector: https://www.linkedin.com/post-inspector/
+Kontrol giriş ekranına yönlendi; tamamlanmış önizleme doğrulaması henüz yok.
+
+DOĞRULAMA
+Canlı HTTPS site ve portfolyo proje kartı açıldı; etkileşimli filtre doğrulandı.
+Notebook yeni çekirdekte baştan sona hatasız çalıştırıldı.
+Mobil Lighthouse: performans 98/100, erişilebilirlik 100/100.
+Raporlar ve ekran görüntüleri docs/ klasöründedir.
+
+TESLİM ÖNCESİ İNCELEME
+Hikâye ve yorum taslakları öğrencinin kendi ifadeleriyle gözden geçirilmelidir.
+Kullanıcı veri kullanım izni bildirdi; adlandırılmış açık lisans doğrulanmadı.
+Özgün kişisel verili Excel dahil edilmedi; kimliksiz analiz girdisi dahil edildi.
+Ayrıntılar: README.md, docs/kontrol_listesi.md ve docs/ogrenci_inceleme_notu.txt.
+

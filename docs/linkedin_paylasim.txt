@@ -8,6 +8,7 @@ Analizde Python, pandas ve NumPy kullandım. Bulguları D3.js ve Intersection Ob
 
 Çalışma boyunca oranların paydasını açık tutmaya ve küçük grupları kesin sıralamalar gibi sunmamaya dikkat ettim. Kod ve anlatı taslaklarında OpenAI Codex desteği kullanıldı; katkının kapsamı yöntem bölümünde yer alıyor.
 
-Hikâyeyi inceleyin: [CANLI_SITE_BAGLANTISI]
+Hikâyeyi inceleyin: https://kerimx54.github.io/veri-hikayesi/
 
 #VeriAnalizi #VeriGörselleştirme #Python #Scrollytelling #D3js
+
