@@ -1,0 +1,9 @@
+Ödevin 13. bölümü analiz yorumlarının ve hikâye metninin öğrencinin kendi yazımı olmasını istiyor. Bu paketteki anlatı ve LinkedIn metni yapay zekâ destekli taslaktır. Teslimden önce bulguları doğrulayın, kendi ifadelerinizle gözden geçirin ve sözlü olarak şu kararları açıklayabildiğinizden emin olun:
+1. Gecikmenin tanımı ve oran paydası nedir?
+2. Neden yıl iade yılı değil ödünç yılıdır? 2025 iadeleri neden dahildir?
+3. Neden kütüphaneleri yalnızca geciken işlem sayısıyla karşılaştırmıyoruz?
+4. Wilson aralıklarının bağımsız işlem varsayımı neden bir sınırlamadır?
+5. Öğrenci kimlikleri neden kullanılmadı?
+6. Küçük kategoriler neden daha oynak olabilir?
+Kullanım izni sizin beyanınızla kaydedildi. Ödevin adlandırılmış lisans ve açık veri koşulu için veri sağlayıcısından kaynak/lisans belgesi alınması gerekir.
+Storyboard dijital PDF olarak hazırlanmıştır; ödevin kâğıt/Figma çizimi şartını tam karşılamak için bu planı kendi çiziminizle yeniden ifade edebilirsiniz.

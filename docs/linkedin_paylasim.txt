@@ -1,0 +1,13 @@
+Her 100 kütüphane iadesinin yaklaşık 45’i gecikiyor. Peki bu oran, yıllara ve kitap kategorilerine göre nasıl değişiyor?
+
+SAÜ Kütüphane Veri Seti adıyla sağlanan dosyadaki 2020–2024 dönemine ait 15.000 ödünç işlemini inceledim. 6.707 işlemde kitap beklenen tarihten sonra dönmüş. En dikkat çekici nokta, kütüphaneler arasındaki toplam oran farkının yalnızca 1,3 yüzde puan olması. Merkez’de daha fazla geciken işlem var; fakat toplam işlem hacmi de daha yüksek. Sayıyı ve oranı birlikte okumak, hikâyeyi değiştiriyor.
+
+2024’te gecikme oranı bir önceki yıla göre 3,6 yüzde puan geriliyor. Buna rağmen beş yıllık seri kesintisiz bir düşüş göstermiyor. Geciken iadelerin ortanca süresi ise beş gün. Bu sonuçlar, gecikmenin nedenini açıklamıyor; yalnızca dosyadaki kayıtları betimliyor.
+
+Analizde Python, pandas ve NumPy kullandım. Bulguları D3.js ve Intersection Observer ile, aşağı kaydırdıkça grafikleri değişen yedi adımlı bir veri hikâyesine dönüştürdüm. Keşif bölümünde yıl ve kütüphane seçerek kategorileri karşılaştırabilir, işlem sayılarını ve belirsizlik aralıklarını inceleyebilirsiniz.
+
+Çalışma boyunca oranların paydasını açık tutmaya ve küçük grupları kesin sıralamalar gibi sunmamaya dikkat ettim. Kod ve anlatı taslaklarında OpenAI Codex desteği kullanıldı; katkının kapsamı yöntem bölümünde yer alıyor.
+
+Hikâyeyi inceleyin: [CANLI_SITE_BAGLANTISI]
+
+#VeriAnalizi #VeriGörselleştirme #Python #Scrollytelling #D3js

@@ -1,0 +1,9 @@
+{
+  "filename": "SAUKutuphaneVeriSeti.xlsx",
+  "sha256": "7dd209819367345d02aae8b1e4db057a67fd2fa2c8d2848df79a17c82520c7df",
+  "accessed": "2026-10-16",
+  "rows": 15000,
+  "source_url": "https://cbuedu-my.sharepoint.com/:x:/g/personal/2516016032_ogr_cbu_edu_tr/IQDtNWhmAspTTqT-BP0N4QteAfWRI7mHhF91OML6tysNM-s?e=D5x7v1",
+  "license": "Kullanıcı 16 Ekim 2026 tarihinde kullanım izni olduğunu bildirdi; lisans adı ve açık veri statüsü bağımsız doğrulanmadı.",
+  "preparation": "OduncIslemleri + Kitaplar + Kategoriler + Kutuphaneler; many-to-one eşleşme; öğrenci sayfası kullanılmadı; tüm kimlik sütunları çıkarıldı. Kaynakta IslemID benzersiz."
+}

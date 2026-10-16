@@ -1,0 +1,4324 @@
+{
+  "meta": {
+    "period": "2020–2024",
+    "year_basis": "Ödünç yılı",
+    "source": "SAÜ Kütüphane Veri Seti · sağlanan dosya",
+    "accessed": "2026-10-16",
+    "license": "Kullanıcı 16 Ekim 2026 tarihinde kullanım izni olduğunu bildirdi; lisans adı ve açık veri statüsü bağımsız doğrulanmadı."
+  },
+  "facts": {
+    "n": 15000,
+    "late": 6707,
+    "rate": 44.71333333333333,
+    "median_days": 5.0,
+    "max_days": 26,
+    "mean_days": 5.791710153570896,
+    "year_change_pp": -3.6316987149881683,
+    "library_gap_pp": 1.3217655111176896,
+    "category_gap_pp": 5.650077172078717
+  },
+  "audit": {
+    "input_rows": 15000,
+    "invalid_rows": 0,
+    "outside_period": 0,
+    "flag_mismatch": 0,
+    "days_mismatch": 0,
+    "duration_mismatch": 0,
+    "retained_rows": 15000,
+    "excluded_rows": 0,
+    "returns_after_2024": 191
+  },
+  "annual": [
+    {
+      "year": 2020,
+      "n": 1821,
+      "late": 790,
+      "rate": 43.38275673,
+      "lo": 41.122718,
+      "hi": 45.67065628
+    },
+    {
+      "year": 2021,
+      "n": 2653,
+      "late": 1203,
+      "rate": 45.34489257,
+      "lo": 43.45860201,
+      "hi": 47.24464504
+    },
+    {
+      "year": 2022,
+      "n": 3423,
+      "late": 1547,
+      "rate": 45.19427403,
+      "lo": 43.53331227,
+      "hi": 46.86601054
+    },
+    {
+      "year": 2023,
+      "n": 3444,
+      "late": 1600,
+      "rate": 46.45760743,
+      "lo": 44.79675868,
+      "hi": 48.12635008
+    },
+    {
+      "year": 2024,
+      "n": 3659,
+      "late": 1567,
+      "rate": 42.82590872,
+      "lo": 41.23090828,
+      "hi": 44.43595758
+    }
+  ],
+  "libraries": [
+    {
+      "library": "Mühendislik",
+      "n": 4475,
+      "late": 2024,
+      "rate": 45.22905028,
+      "lo": 43.77547382,
+      "hi": 46.69081104
+    },
+    {
+      "library": "Merkez",
+      "n": 9015,
+      "late": 4020,
+      "rate": 44.59234609,
+      "lo": 43.56876887,
+      "hi": 45.62053012
+    },
+    {
+      "library": "Tıp",
+      "n": 1510,
+      "late": 663,
+      "rate": 43.90728477,
+      "lo": 41.42271329,
+      "hi": 46.4227786
+    }
+  ],
+  "categories": [
+    {
+      "category": "Biyoloji",
+      "n": 619,
+      "late": 295,
+      "rate": 47.65751212,
+      "lo": 43.74945914,
+      "hi": 51.59446137
+    },
+    {
+      "category": "Tıp",
+      "n": 612,
+      "late": 289,
+      "rate": 47.22222222,
+      "lo": 43.29657045,
+      "hi": 51.18252937
+    },
+    {
+      "category": "Matematik",
+      "n": 1811,
+      "late": 854,
+      "rate": 47.15626726,
+      "lo": 44.86558475,
+      "hi": 49.45898881
+    },
+    {
+      "category": "Dil",
+      "n": 225,
+      "late": 105,
+      "rate": 46.66666667,
+      "lo": 40.25853064,
+      "hi": 53.18671708
+    },
+    {
+      "category": "Roman",
+      "n": 288,
+      "late": 134,
+      "rate": 46.52777778,
+      "lo": 40.85057793,
+      "hi": 52.29638947
+    },
+    {
+      "category": "Tarih",
+      "n": 708,
+      "late": 323,
+      "rate": 45.62146893,
+      "lo": 41.98601934,
+      "hi": 49.3041778
+    },
+    {
+      "category": "Felsefe",
+      "n": 407,
+      "late": 184,
+      "rate": 45.20884521,
+      "lo": 40.44076984,
+      "hi": 50.06652056
+    },
+    {
+      "category": "Kimya",
+      "n": 617,
+      "late": 276,
+      "rate": 44.73257699,
+      "lo": 40.85381468,
+      "hi": 48.67652607
+    },
+    {
+      "category": "Hikâye",
+      "n": 322,
+      "late": 144,
+      "rate": 44.72049689,
+      "lo": 39.38369484,
+      "hi": 50.18178728
+    },
+    {
+      "category": "Psikoloji",
+      "n": 1133,
+      "late": 504,
+      "rate": 44.48367167,
+      "lo": 41.6134569,
+      "hi": 47.39116785
+    },
+    {
+      "category": "Mühendislik",
+      "n": 870,
+      "late": 387,
+      "rate": 44.48275862,
+      "lo": 41.2119692,
+      "hi": 47.80205806
+    },
+    {
+      "category": "Şiir",
+      "n": 311,
+      "late": 138,
+      "rate": 44.37299035,
+      "lo": 38.95324368,
+      "hi": 49.93005509
+    },
+    {
+      "category": "Eğitim",
+      "n": 532,
+      "late": 235,
+      "rate": 44.17293233,
+      "lo": 40.00976811,
+      "hi": 48.41964835
+    },
+    {
+      "category": "Fizik",
+      "n": 974,
+      "late": 429,
+      "rate": 44.04517454,
+      "lo": 40.95683809,
+      "hi": 47.18029987
+    },
+    {
+      "category": "İşletme",
+      "n": 1641,
+      "late": 714,
+      "rate": 43.51005484,
+      "lo": 41.12923281,
+      "hi": 45.92119198
+    },
+    {
+      "category": "Bilgisayar Bilimi",
+      "n": 1711,
+      "late": 743,
+      "rate": 43.42489772,
+      "lo": 41.09359115,
+      "hi": 45.78566347
+    },
+    {
+      "category": "Elektronik",
+      "n": 907,
+      "late": 392,
+      "rate": 43.21940463,
+      "lo": 40.03070567,
+      "hi": 46.46529978
+    },
+    {
+      "category": "Ekonomi",
+      "n": 829,
+      "late": 358,
+      "rate": 43.18455971,
+      "lo": 39.85172363,
+      "hi": 46.58027016
+    },
+    {
+      "category": "Sanat",
+      "n": 214,
+      "late": 90,
+      "rate": 42.05607477,
+      "lo": 35.63919558,
+      "hi": 48.75313353
+    },
+    {
+      "category": "Din",
+      "n": 269,
+      "late": 113,
+      "rate": 42.00743494,
+      "lo": 36.26222882,
+      "hi": 47.97771113
+    }
+  ],
+  "annual_library": [
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "n": 1088,
+      "late": 481,
+      "rate": 44.20955882,
+      "lo": 41.2839873,
+      "hi": 47.1758772
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "n": 555,
+      "late": 232,
+      "rate": 41.8018018,
+      "lo": 37.76832842,
+      "hi": 45.94798761
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "n": 178,
+      "late": 77,
+      "rate": 43.25842697,
+      "lo": 36.19839715,
+      "hi": 50.60330279
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "n": 1602,
+      "late": 724,
+      "rate": 45.19350811,
+      "lo": 42.77076541,
+      "hi": 47.63924764
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "n": 787,
+      "late": 346,
+      "rate": 43.96442186,
+      "lo": 40.53427067,
+      "hi": 47.45321
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "n": 264,
+      "late": 133,
+      "rate": 50.37878788,
+      "lo": 44.38545173,
+      "hi": 56.36125827
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "n": 2065,
+      "late": 916,
+      "rate": 44.35835351,
+      "lo": 42.2279838,
+      "hi": 46.50967499
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "n": 1027,
+      "late": 483,
+      "rate": 47.030185,
+      "lo": 43.99430102,
+      "hi": 50.088204
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "n": 331,
+      "late": 148,
+      "rate": 44.71299094,
+      "lo": 39.44774898,
+      "hi": 50.09954742
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "n": 2047,
+      "late": 963,
+      "rate": 47.0444553,
+      "lo": 44.88975467,
+      "hi": 49.21022848
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "n": 1034,
+      "late": 484,
+      "rate": 46.80851064,
+      "lo": 43.784495,
+      "hi": 49.85615305
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "n": 363,
+      "late": 153,
+      "rate": 42.14876033,
+      "lo": 37.17712168,
+      "hi": 47.28483683
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "n": 2213,
+      "late": 936,
+      "rate": 42.29552643,
+      "lo": 40.25227755,
+      "hi": 44.36547773
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "n": 1072,
+      "late": 479,
+      "rate": 44.68283582,
+      "lo": 41.73090136,
+      "hi": 47.67274319
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "n": 374,
+      "late": 152,
+      "rate": 40.64171123,
+      "lo": 35.78340659,
+      "hi": 45.69031149
+    }
+  ],
+  "annual_category": [
+    {
+      "year": 2020,
+      "category": "Bilgisayar Bilimi",
+      "n": 211,
+      "late": 81,
+      "rate": 38.38862559,
+      "lo": 32.08971353,
+      "hi": 45.1027855
+    },
+    {
+      "year": 2020,
+      "category": "Biyoloji",
+      "n": 89,
+      "late": 44,
+      "rate": 49.43820225,
+      "lo": 39.29127191,
+      "hi": 59.63162473
+    },
+    {
+      "year": 2020,
+      "category": "Dil",
+      "n": 31,
+      "late": 15,
+      "rate": 48.38709677,
+      "lo": 31.96998603,
+      "hi": 65.15988171
+    },
+    {
+      "year": 2020,
+      "category": "Din",
+      "n": 39,
+      "late": 19,
+      "rate": 48.71794872,
+      "lo": 33.86492878,
+      "hi": 63.80089135
+    },
+    {
+      "year": 2020,
+      "category": "Ekonomi",
+      "n": 108,
+      "late": 46,
+      "rate": 42.59259259,
+      "lo": 33.67906666,
+      "hi": 52.01498635
+    },
+    {
+      "year": 2020,
+      "category": "Elektronik",
+      "n": 106,
+      "late": 38,
+      "rate": 35.8490566,
+      "lo": 27.36196617,
+      "hi": 45.32597719
+    },
+    {
+      "year": 2020,
+      "category": "Eğitim",
+      "n": 69,
+      "late": 23,
+      "rate": 33.33333333,
+      "lo": 23.35089101,
+      "hi": 45.07374546
+    },
+    {
+      "year": 2020,
+      "category": "Felsefe",
+      "n": 39,
+      "late": 12,
+      "rate": 30.76923077,
+      "lo": 18.56575345,
+      "hi": 46.42154862
+    },
+    {
+      "year": 2020,
+      "category": "Fizik",
+      "n": 104,
+      "late": 45,
+      "rate": 43.26923077,
+      "lo": 34.15484368,
+      "hi": 52.86315309
+    },
+    {
+      "year": 2020,
+      "category": "Hikâye",
+      "n": 32,
+      "late": 12,
+      "rate": 37.5,
+      "lo": 22.93366847,
+      "hi": 54.74589941
+    },
+    {
+      "year": 2020,
+      "category": "Kimya",
+      "n": 84,
+      "late": 43,
+      "rate": 51.19047619,
+      "lo": 40.68499737,
+      "hi": 61.59182819
+    },
+    {
+      "year": 2020,
+      "category": "Matematik",
+      "n": 203,
+      "late": 98,
+      "rate": 48.27586207,
+      "lo": 41.49778252,
+      "hi": 55.1179853
+    },
+    {
+      "year": 2020,
+      "category": "Mühendislik",
+      "n": 105,
+      "late": 47,
+      "rate": 44.76190476,
+      "lo": 35.60311978,
+      "hi": 54.29045033
+    },
+    {
+      "year": 2020,
+      "category": "Psikoloji",
+      "n": 136,
+      "late": 63,
+      "rate": 46.32352941,
+      "lo": 38.1591408,
+      "hi": 54.68991127
+    },
+    {
+      "year": 2020,
+      "category": "Roman",
+      "n": 35,
+      "late": 16,
+      "rate": 45.71428571,
+      "lo": 30.46577363,
+      "hi": 61.81054866
+    },
+    {
+      "year": 2020,
+      "category": "Sanat",
+      "n": 31,
+      "late": 11,
+      "rate": 35.48387097,
+      "lo": 21.11644774,
+      "hi": 53.05236196
+    },
+    {
+      "year": 2020,
+      "category": "Tarih",
+      "n": 93,
+      "late": 41,
+      "rate": 44.08602151,
+      "lo": 34.42921876,
+      "hi": 54.21202632
+    },
+    {
+      "year": 2020,
+      "category": "Tıp",
+      "n": 75,
+      "late": 40,
+      "rate": 53.33333333,
+      "lo": 42.15733915,
+      "hi": 64.18449054
+    },
+    {
+      "year": 2020,
+      "category": "İşletme",
+      "n": 202,
+      "late": 82,
+      "rate": 40.59405941,
+      "lo": 34.05864684,
+      "hi": 47.48055612
+    },
+    {
+      "year": 2020,
+      "category": "Şiir",
+      "n": 29,
+      "late": 14,
+      "rate": 48.27586207,
+      "lo": 31.38581933,
+      "hi": 65.56926203
+    },
+    {
+      "year": 2021,
+      "category": "Bilgisayar Bilimi",
+      "n": 299,
+      "late": 133,
+      "rate": 44.48160535,
+      "lo": 38.95414786,
+      "hi": 50.1490665
+    },
+    {
+      "year": 2021,
+      "category": "Biyoloji",
+      "n": 103,
+      "late": 44,
+      "rate": 42.7184466,
+      "lo": 33.59664887,
+      "hi": 52.36387587
+    },
+    {
+      "year": 2021,
+      "category": "Dil",
+      "n": 35,
+      "late": 11,
+      "rate": 31.42857143,
+      "lo": 18.55065806,
+      "hi": 47.98007188
+    },
+    {
+      "year": 2021,
+      "category": "Din",
+      "n": 51,
+      "late": 24,
+      "rate": 47.05882353,
+      "lo": 34.05277143,
+      "hi": 60.47692866
+    },
+    {
+      "year": 2021,
+      "category": "Ekonomi",
+      "n": 140,
+      "late": 61,
+      "rate": 43.57142857,
+      "lo": 35.63795536,
+      "hi": 51.84827949
+    },
+    {
+      "year": 2021,
+      "category": "Elektronik",
+      "n": 158,
+      "late": 70,
+      "rate": 44.30379747,
+      "lo": 36.78459167,
+      "hi": 52.09342239
+    },
+    {
+      "year": 2021,
+      "category": "Eğitim",
+      "n": 110,
+      "late": 54,
+      "rate": 49.09090909,
+      "lo": 39.93812926,
+      "hi": 58.30504371
+    },
+    {
+      "year": 2021,
+      "category": "Felsefe",
+      "n": 92,
+      "late": 48,
+      "rate": 52.17391304,
+      "lo": 42.08551791,
+      "hi": 62.08803512
+    },
+    {
+      "year": 2021,
+      "category": "Fizik",
+      "n": 157,
+      "late": 73,
+      "rate": 46.49681529,
+      "lo": 38.87173802,
+      "hi": 54.28923526
+    },
+    {
+      "year": 2021,
+      "category": "Hikâye",
+      "n": 56,
+      "late": 27,
+      "rate": 48.21428571,
+      "lo": 35.66800562,
+      "hi": 60.98983775
+    },
+    {
+      "year": 2021,
+      "category": "Kimya",
+      "n": 117,
+      "late": 56,
+      "rate": 47.86324786,
+      "lo": 39.02413326,
+      "hi": 56.83821878
+    },
+    {
+      "year": 2021,
+      "category": "Matematik",
+      "n": 298,
+      "late": 148,
+      "rate": 49.66442953,
+      "lo": 44.02808003,
+      "hi": 55.30932078
+    },
+    {
+      "year": 2021,
+      "category": "Mühendislik",
+      "n": 152,
+      "late": 66,
+      "rate": 43.42105263,
+      "lo": 35.79952497,
+      "hi": 51.36693123
+    },
+    {
+      "year": 2021,
+      "category": "Psikoloji",
+      "n": 199,
+      "late": 81,
+      "rate": 40.70351759,
+      "lo": 34.11633657,
+      "hi": 47.6428292
+    },
+    {
+      "year": 2021,
+      "category": "Roman",
+      "n": 60,
+      "late": 29,
+      "rate": 48.33333333,
+      "lo": 36.17484129,
+      "hi": 60.69240515
+    },
+    {
+      "year": 2021,
+      "category": "Sanat",
+      "n": 48,
+      "late": 20,
+      "rate": 41.66666667,
+      "lo": 28.84945973,
+      "hi": 55.71891778
+    },
+    {
+      "year": 2021,
+      "category": "Tarih",
+      "n": 115,
+      "late": 53,
+      "rate": 46.08695652,
+      "lo": 37.25049623,
+      "hi": 55.17639806
+    },
+    {
+      "year": 2021,
+      "category": "Tıp",
+      "n": 99,
+      "late": 52,
+      "rate": 52.52525253,
+      "lo": 42.77913416,
+      "hi": 62.08271163
+    },
+    {
+      "year": 2021,
+      "category": "İşletme",
+      "n": 302,
+      "late": 129,
+      "rate": 42.71523179,
+      "lo": 37.26203588,
+      "hi": 48.35143201
+    },
+    {
+      "year": 2021,
+      "category": "Şiir",
+      "n": 62,
+      "late": 24,
+      "rate": 38.70967742,
+      "lo": 27.58446343,
+      "hi": 51.15238379
+    },
+    {
+      "year": 2022,
+      "category": "Bilgisayar Bilimi",
+      "n": 374,
+      "late": 170,
+      "rate": 45.45454545,
+      "lo": 40.47979128,
+      "hi": 50.52172894
+    },
+    {
+      "year": 2022,
+      "category": "Biyoloji",
+      "n": 133,
+      "late": 60,
+      "rate": 45.11278195,
+      "lo": 36.91141956,
+      "hi": 53.58854536
+    },
+    {
+      "year": 2022,
+      "category": "Dil",
+      "n": 56,
+      "late": 26,
+      "rate": 46.42857143,
+      "lo": 34.0196434,
+      "hi": 59.29604334
+    },
+    {
+      "year": 2022,
+      "category": "Din",
+      "n": 57,
+      "late": 22,
+      "rate": 38.59649123,
+      "lo": 27.062537,
+      "hi": 51.57050356
+    },
+    {
+      "year": 2022,
+      "category": "Ekonomi",
+      "n": 189,
+      "late": 91,
+      "rate": 48.14814815,
+      "lo": 41.13269342,
+      "hi": 55.2373844
+    },
+    {
+      "year": 2022,
+      "category": "Elektronik",
+      "n": 208,
+      "late": 98,
+      "rate": 47.11538462,
+      "lo": 40.44552276,
+      "hi": 53.88986745
+    },
+    {
+      "year": 2022,
+      "category": "Eğitim",
+      "n": 105,
+      "late": 50,
+      "rate": 47.61904762,
+      "lo": 38.31983863,
+      "hi": 57.0863296
+    },
+    {
+      "year": 2022,
+      "category": "Felsefe",
+      "n": 87,
+      "late": 41,
+      "rate": 47.12643678,
+      "lo": 36.9820882,
+      "hi": 57.51382557
+    },
+    {
+      "year": 2022,
+      "category": "Fizik",
+      "n": 241,
+      "late": 97,
+      "rate": 40.24896266,
+      "lo": 34.25729298,
+      "hi": 46.54662269
+    },
+    {
+      "year": 2022,
+      "category": "Hikâye",
+      "n": 69,
+      "late": 28,
+      "rate": 40.57971014,
+      "lo": 29.78872908,
+      "hi": 52.36432632
+    },
+    {
+      "year": 2022,
+      "category": "Kimya",
+      "n": 138,
+      "late": 55,
+      "rate": 39.85507246,
+      "lo": 32.06773966,
+      "hi": 48.19193028
+    },
+    {
+      "year": 2022,
+      "category": "Matematik",
+      "n": 441,
+      "late": 210,
+      "rate": 47.61904762,
+      "lo": 42.99836222,
+      "hi": 52.28085627
+    },
+    {
+      "year": 2022,
+      "category": "Mühendislik",
+      "n": 211,
+      "late": 84,
+      "rate": 39.81042654,
+      "lo": 33.44439433,
+      "hi": 46.54085992
+    },
+    {
+      "year": 2022,
+      "category": "Psikoloji",
+      "n": 269,
+      "late": 129,
+      "rate": 47.95539033,
+      "lo": 42.05611972,
+      "hi": 53.91223701
+    },
+    {
+      "year": 2022,
+      "category": "Roman",
+      "n": 72,
+      "late": 28,
+      "rate": 38.88888889,
+      "lo": 28.46554187,
+      "hi": 50.43785679
+    },
+    {
+      "year": 2022,
+      "category": "Sanat",
+      "n": 44,
+      "late": 17,
+      "rate": 38.63636364,
+      "lo": 25.72099889,
+      "hi": 53.37669015
+    },
+    {
+      "year": 2022,
+      "category": "Tarih",
+      "n": 149,
+      "late": 74,
+      "rate": 49.66442953,
+      "lo": 41.74610314,
+      "hi": 57.59962473
+    },
+    {
+      "year": 2022,
+      "category": "Tıp",
+      "n": 135,
+      "late": 64,
+      "rate": 47.40740741,
+      "lo": 39.1730283,
+      "hi": 55.7852551
+    },
+    {
+      "year": 2022,
+      "category": "İşletme",
+      "n": 381,
+      "late": 173,
+      "rate": 45.40682415,
+      "lo": 40.47801624,
+      "hi": 50.42733287
+    },
+    {
+      "year": 2022,
+      "category": "Şiir",
+      "n": 64,
+      "late": 30,
+      "rate": 46.875,
+      "lo": 35.17578764,
+      "hi": 58.928125
+    },
+    {
+      "year": 2023,
+      "category": "Bilgisayar Bilimi",
+      "n": 391,
+      "late": 175,
+      "rate": 44.75703325,
+      "lo": 39.90306444,
+      "hi": 49.71302464
+    },
+    {
+      "year": 2023,
+      "category": "Biyoloji",
+      "n": 145,
+      "late": 75,
+      "rate": 51.72413793,
+      "lo": 43.65154804,
+      "hi": 59.70772786
+    },
+    {
+      "year": 2023,
+      "category": "Dil",
+      "n": 57,
+      "late": 33,
+      "rate": 57.89473684,
+      "lo": 44.97991014,
+      "hi": 69.81260025
+    },
+    {
+      "year": 2023,
+      "category": "Din",
+      "n": 64,
+      "late": 28,
+      "rate": 43.75,
+      "lo": 32.29381707,
+      "hi": 55.91400822
+    },
+    {
+      "year": 2023,
+      "category": "Ekonomi",
+      "n": 180,
+      "late": 84,
+      "rate": 46.66666667,
+      "lo": 39.52429645,
+      "hi": 53.94834521
+    },
+    {
+      "year": 2023,
+      "category": "Elektronik",
+      "n": 203,
+      "late": 83,
+      "rate": 40.88669951,
+      "lo": 34.35388257,
+      "hi": 47.75803302
+    },
+    {
+      "year": 2023,
+      "category": "Eğitim",
+      "n": 118,
+      "late": 52,
+      "rate": 44.06779661,
+      "lo": 35.43729179,
+      "hi": 53.07237979
+    },
+    {
+      "year": 2023,
+      "category": "Felsefe",
+      "n": 90,
+      "late": 47,
+      "rate": 52.22222222,
+      "lo": 42.02438258,
+      "hi": 62.23811934
+    },
+    {
+      "year": 2023,
+      "category": "Fizik",
+      "n": 229,
+      "late": 104,
+      "rate": 45.41484716,
+      "lo": 39.09473359,
+      "hi": 51.8862595
+    },
+    {
+      "year": 2023,
+      "category": "Hikâye",
+      "n": 73,
+      "late": 41,
+      "rate": 56.16438356,
+      "lo": 44.75757167,
+      "hi": 66.95483411
+    },
+    {
+      "year": 2023,
+      "category": "Kimya",
+      "n": 115,
+      "late": 49,
+      "rate": 42.60869565,
+      "lo": 33.95354804,
+      "hi": 51.74169672
+    },
+    {
+      "year": 2023,
+      "category": "Matematik",
+      "n": 435,
+      "late": 219,
+      "rate": 50.34482759,
+      "lo": 45.6637904,
+      "hi": 55.01982757
+    },
+    {
+      "year": 2023,
+      "category": "Mühendislik",
+      "n": 202,
+      "late": 86,
+      "rate": 42.57425743,
+      "lo": 35.95656185,
+      "hi": 49.4691247
+    },
+    {
+      "year": 2023,
+      "category": "Psikoloji",
+      "n": 258,
+      "late": 126,
+      "rate": 48.8372093,
+      "lo": 42.7995918,
+      "hi": 54.90894649
+    },
+    {
+      "year": 2023,
+      "category": "Roman",
+      "n": 53,
+      "late": 24,
+      "rate": 45.28301887,
+      "lo": 32.65736816,
+      "hi": 58.54625735
+    },
+    {
+      "year": 2023,
+      "category": "Sanat",
+      "n": 50,
+      "late": 22,
+      "rate": 44.0,
+      "lo": 31.16198721,
+      "hi": 57.6942132
+    },
+    {
+      "year": 2023,
+      "category": "Tarih",
+      "n": 179,
+      "late": 82,
+      "rate": 45.81005587,
+      "lo": 38.6755383,
+      "hi": 53.12063938
+    },
+    {
+      "year": 2023,
+      "category": "Tıp",
+      "n": 144,
+      "late": 62,
+      "rate": 43.05555556,
+      "lo": 35.25221624,
+      "hi": 51.21979164
+    },
+    {
+      "year": 2023,
+      "category": "İşletme",
+      "n": 371,
+      "late": 168,
+      "rate": 45.28301887,
+      "lo": 40.29193714,
+      "hi": 50.37078546
+    },
+    {
+      "year": 2023,
+      "category": "Şiir",
+      "n": 87,
+      "late": 40,
+      "rate": 45.97701149,
+      "lo": 35.89691972,
+      "hi": 56.39735956
+    },
+    {
+      "year": 2024,
+      "category": "Bilgisayar Bilimi",
+      "n": 436,
+      "late": 184,
+      "rate": 42.20183486,
+      "lo": 37.65381594,
+      "hi": 46.88607297
+    },
+    {
+      "year": 2024,
+      "category": "Biyoloji",
+      "n": 149,
+      "late": 72,
+      "rate": 48.32214765,
+      "lo": 40.44173701,
+      "hi": 56.28690232
+    },
+    {
+      "year": 2024,
+      "category": "Dil",
+      "n": 46,
+      "late": 20,
+      "rate": 43.47826087,
+      "lo": 30.20904596,
+      "hi": 57.75281722
+    },
+    {
+      "year": 2024,
+      "category": "Din",
+      "n": 58,
+      "late": 20,
+      "rate": 34.48275862,
+      "lo": 23.56091637,
+      "hi": 47.33246284
+    },
+    {
+      "year": 2024,
+      "category": "Ekonomi",
+      "n": 212,
+      "late": 76,
+      "rate": 35.8490566,
+      "lo": 29.69818898,
+      "hi": 42.50364792
+    },
+    {
+      "year": 2024,
+      "category": "Elektronik",
+      "n": 232,
+      "late": 103,
+      "rate": 44.39655172,
+      "lo": 38.14597038,
+      "hi": 50.82968108
+    },
+    {
+      "year": 2024,
+      "category": "Eğitim",
+      "n": 130,
+      "late": 56,
+      "rate": 43.07692308,
+      "lo": 34.88395502,
+      "hi": 51.66731155
+    },
+    {
+      "year": 2024,
+      "category": "Felsefe",
+      "n": 99,
+      "late": 36,
+      "rate": 36.36363636,
+      "lo": 27.56174841,
+      "hi": 46.18428432
+    },
+    {
+      "year": 2024,
+      "category": "Fizik",
+      "n": 243,
+      "late": 110,
+      "rate": 45.26748971,
+      "lo": 39.13111709,
+      "hi": 51.55116661
+    },
+    {
+      "year": 2024,
+      "category": "Hikâye",
+      "n": 92,
+      "late": 36,
+      "rate": 39.13043478,
+      "lo": 29.78546578,
+      "hi": 49.34676908
+    },
+    {
+      "year": 2024,
+      "category": "Kimya",
+      "n": 163,
+      "late": 73,
+      "rate": 44.78527607,
+      "lo": 37.35870175,
+      "hi": 52.45199295
+    },
+    {
+      "year": 2024,
+      "category": "Matematik",
+      "n": 434,
+      "late": 179,
+      "rate": 41.24423963,
+      "lo": 36.70932343,
+      "hi": 45.93280102
+    },
+    {
+      "year": 2024,
+      "category": "Mühendislik",
+      "n": 200,
+      "late": 104,
+      "rate": 52.0,
+      "lo": 45.10366006,
+      "hi": 58.82095592
+    },
+    {
+      "year": 2024,
+      "category": "Psikoloji",
+      "n": 271,
+      "late": 105,
+      "rate": 38.74538745,
+      "lo": 33.14092554,
+      "hi": 44.66447219
+    },
+    {
+      "year": 2024,
+      "category": "Roman",
+      "n": 68,
+      "late": 37,
+      "rate": 54.41176471,
+      "lo": 42.65639778,
+      "hi": 65.6953093
+    },
+    {
+      "year": 2024,
+      "category": "Sanat",
+      "n": 41,
+      "late": 20,
+      "rate": 48.7804878,
+      "lo": 34.25418724,
+      "hi": 63.51574068
+    },
+    {
+      "year": 2024,
+      "category": "Tarih",
+      "n": 172,
+      "late": 73,
+      "rate": 42.44186047,
+      "lo": 35.29968587,
+      "hi": 49.91427943
+    },
+    {
+      "year": 2024,
+      "category": "Tıp",
+      "n": 159,
+      "late": 71,
+      "rate": 44.65408805,
+      "lo": 37.14349872,
+      "hi": 52.41690845
+    },
+    {
+      "year": 2024,
+      "category": "İşletme",
+      "n": 385,
+      "late": 162,
+      "rate": 42.07792208,
+      "lo": 37.24853258,
+      "hi": 47.06384552
+    },
+    {
+      "year": 2024,
+      "category": "Şiir",
+      "n": 69,
+      "late": 30,
+      "rate": 43.47826087,
+      "lo": 32.43261618,
+      "hi": 55.21180679
+    }
+  ],
+  "cube": [
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Bilgisayar Bilimi",
+      "n": 125,
+      "late": 49,
+      "rate": 39.2,
+      "lo": 31.08596143,
+      "hi": 47.95807403
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Biyoloji",
+      "n": 49,
+      "late": 23,
+      "rate": 46.93877551,
+      "lo": 33.7032819,
+      "hi": 60.61937298
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Dil",
+      "n": 22,
+      "late": 8,
+      "rate": 36.36363636,
+      "lo": 19.73297277,
+      "hi": 57.04865066
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Din",
+      "n": 23,
+      "late": 10,
+      "rate": 43.47826087,
+      "lo": 25.63436833,
+      "hi": 63.18895069
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Ekonomi",
+      "n": 56,
+      "late": 23,
+      "rate": 41.07142857,
+      "lo": 29.16657898,
+      "hi": 54.12263789
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Elektronik",
+      "n": 65,
+      "late": 24,
+      "rate": 36.92307692,
+      "lo": 26.22922219,
+      "hi": 49.07640697
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Eğitim",
+      "n": 46,
+      "late": 17,
+      "rate": 36.95652174,
+      "lo": 24.52355951,
+      "hi": 51.40016685
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Felsefe",
+      "n": 25,
+      "late": 6,
+      "rate": 24.0,
+      "lo": 11.49615773,
+      "hi": 43.43005996
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Fizik",
+      "n": 58,
+      "late": 29,
+      "rate": 50.0,
+      "lo": 37.53805825,
+      "hi": 62.46194175
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Hikâye",
+      "n": 17,
+      "late": 6,
+      "rate": 35.29411765,
+      "lo": 17.30948614,
+      "hi": 58.70003328
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Kimya",
+      "n": 50,
+      "late": 26,
+      "rate": 52.0,
+      "lo": 38.51151226,
+      "hi": 65.2030876
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Matematik",
+      "n": 122,
+      "late": 61,
+      "rate": 50.0,
+      "lo": 41.26397315,
+      "hi": 58.73602685
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Mühendislik",
+      "n": 67,
+      "late": 31,
+      "rate": 46.26865672,
+      "lo": 34.85824888,
+      "hi": 58.08375131
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Psikoloji",
+      "n": 84,
+      "late": 45,
+      "rate": 53.57142857,
+      "lo": 42.98452712,
+      "hi": 63.84594955
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Roman",
+      "n": 21,
+      "late": 10,
+      "rate": 47.61904762,
+      "lo": 28.3437123,
+      "hi": 67.6307821
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Sanat",
+      "n": 22,
+      "late": 6,
+      "rate": 27.27272727,
+      "lo": 13.15058202,
+      "hi": 48.1521237
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Tarih",
+      "n": 58,
+      "late": 26,
+      "rate": 44.82758621,
+      "lo": 32.74965129,
+      "hi": 57.54814178
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Tıp",
+      "n": 48,
+      "late": 25,
+      "rate": 52.08333333,
+      "lo": 38.32899564,
+      "hi": 65.52890998
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "İşletme",
+      "n": 113,
+      "late": 46,
+      "rate": 40.7079646,
+      "lo": 32.09993001,
+      "hi": 49.92701929
+    },
+    {
+      "year": 2020,
+      "library": "Merkez",
+      "category": "Şiir",
+      "n": 17,
+      "late": 10,
+      "rate": 58.82352941,
+      "lo": 36.00507439,
+      "hi": 78.38921396
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Bilgisayar Bilimi",
+      "n": 68,
+      "late": 23,
+      "rate": 33.82352941,
+      "lo": 23.71409124,
+      "hi": 45.66298276
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Biyoloji",
+      "n": 27,
+      "late": 14,
+      "rate": 51.85185185,
+      "lo": 33.98532459,
+      "hi": 69.25704935
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Dil",
+      "n": 8,
+      "late": 6,
+      "rate": 75.0,
+      "lo": 40.92698791,
+      "hi": 92.85223111
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Din",
+      "n": 15,
+      "late": 9,
+      "rate": 60.0,
+      "lo": 35.74644276,
+      "hi": 80.17577192
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Ekonomi",
+      "n": 40,
+      "late": 18,
+      "rate": 45.0,
+      "lo": 30.70507528,
+      "hi": 60.17117011
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Elektronik",
+      "n": 26,
+      "late": 9,
+      "rate": 34.61538462,
+      "lo": 19.41201497,
+      "hi": 53.77977099
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Eğitim",
+      "n": 15,
+      "late": 3,
+      "rate": 20.0,
+      "lo": 7.04742064,
+      "hi": 45.18593533
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Felsefe",
+      "n": 9,
+      "late": 4,
+      "rate": 44.44444444,
+      "lo": 18.87754295,
+      "hi": 73.33526543
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Fizik",
+      "n": 37,
+      "late": 11,
+      "rate": 29.72972973,
+      "lo": 17.48930235,
+      "hi": 45.78343917
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Hikâye",
+      "n": 9,
+      "late": 4,
+      "rate": 44.44444444,
+      "lo": 18.87754295,
+      "hi": 73.33526543
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Kimya",
+      "n": 23,
+      "late": 13,
+      "rate": 56.52173913,
+      "lo": 36.81104931,
+      "hi": 74.36563167
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Matematik",
+      "n": 68,
+      "late": 30,
+      "rate": 44.11764706,
+      "lo": 32.94604499,
+      "hi": 55.91834556
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Mühendislik",
+      "n": 30,
+      "late": 11,
+      "rate": 36.66666667,
+      "lo": 21.8737022,
+      "hi": 54.48675357
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Psikoloji",
+      "n": 43,
+      "late": 17,
+      "rate": 39.53488372,
+      "lo": 26.3651062,
+      "hi": 54.42120341
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Roman",
+      "n": 11,
+      "late": 3,
+      "rate": 27.27272727,
+      "lo": 9.74588057,
+      "hi": 56.5650293
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Sanat",
+      "n": 7,
+      "late": 3,
+      "rate": 42.85714286,
+      "lo": 15.82169223,
+      "hi": 74.95457696
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Tarih",
+      "n": 27,
+      "late": 11,
+      "rate": 40.74074074,
+      "lo": 24.51451337,
+      "hi": 59.27361694
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Tıp",
+      "n": 19,
+      "late": 11,
+      "rate": 57.89473684,
+      "lo": 36.27555147,
+      "hi": 76.85837961
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "İşletme",
+      "n": 64,
+      "late": 29,
+      "rate": 45.3125,
+      "lo": 33.72925149,
+      "hi": 57.42661748
+    },
+    {
+      "year": 2020,
+      "library": "Mühendislik",
+      "category": "Şiir",
+      "n": 9,
+      "late": 3,
+      "rate": 33.33333333,
+      "lo": 12.05815987,
+      "hi": 64.58026525
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Bilgisayar Bilimi",
+      "n": 18,
+      "late": 9,
+      "rate": 50.0,
+      "lo": 29.03070396,
+      "hi": 70.96929604
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Biyoloji",
+      "n": 13,
+      "late": 7,
+      "rate": 53.84615385,
+      "lo": 29.14343243,
+      "hi": 76.7942457
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Dil",
+      "n": 1,
+      "late": 1,
+      "rate": 100.0,
+      "lo": 20.65432915,
+      "hi": 100.0
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Din",
+      "n": 1,
+      "late": 0,
+      "rate": 0.0,
+      "lo": 0.0,
+      "hi": 79.34567085
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Ekonomi",
+      "n": 12,
+      "late": 5,
+      "rate": 41.66666667,
+      "lo": 19.32574619,
+      "hi": 68.04926643
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Elektronik",
+      "n": 15,
+      "late": 5,
+      "rate": 33.33333333,
+      "lo": 15.17610069,
+      "hi": 58.28687485
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Eğitim",
+      "n": 8,
+      "late": 3,
+      "rate": 37.5,
+      "lo": 13.68417595,
+      "hi": 69.42621454
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Felsefe",
+      "n": 5,
+      "late": 2,
+      "rate": 40.0,
+      "lo": 11.76182312,
+      "hi": 76.92800678
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Fizik",
+      "n": 9,
+      "late": 5,
+      "rate": 55.55555556,
+      "lo": 26.66473457,
+      "hi": 81.12245705
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Hikâye",
+      "n": 6,
+      "late": 2,
+      "rate": 33.33333333,
+      "lo": 9.67693326,
+      "hi": 70.00116787
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Kimya",
+      "n": 11,
+      "late": 4,
+      "rate": 36.36363636,
+      "lo": 15.16622361,
+      "hi": 64.62032231
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Matematik",
+      "n": 13,
+      "late": 7,
+      "rate": 53.84615385,
+      "lo": 29.14343243,
+      "hi": 76.7942457
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Mühendislik",
+      "n": 8,
+      "late": 5,
+      "rate": 62.5,
+      "lo": 30.57378546,
+      "hi": 86.31582405
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Psikoloji",
+      "n": 9,
+      "late": 1,
+      "rate": 11.11111111,
+      "lo": 1.98903713,
+      "hi": 43.50062148
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Roman",
+      "n": 3,
+      "late": 3,
+      "rate": 100.0,
+      "lo": 43.84939196,
+      "hi": 100.0
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Sanat",
+      "n": 2,
+      "late": 2,
+      "rate": 100.0,
+      "lo": 34.23719529,
+      "hi": 100.0
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Tarih",
+      "n": 8,
+      "late": 4,
+      "rate": 50.0,
+      "lo": 21.52125268,
+      "hi": 78.47874732
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Tıp",
+      "n": 8,
+      "late": 4,
+      "rate": 50.0,
+      "lo": 21.52125268,
+      "hi": 78.47874732
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "İşletme",
+      "n": 25,
+      "late": 7,
+      "rate": 28.0,
+      "lo": 14.28367384,
+      "hi": 47.5769719
+    },
+    {
+      "year": 2020,
+      "library": "Tıp",
+      "category": "Şiir",
+      "n": 3,
+      "late": 1,
+      "rate": 33.33333333,
+      "lo": 6.14903153,
+      "hi": 79.23450449
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Bilgisayar Bilimi",
+      "n": 185,
+      "late": 81,
+      "rate": 43.78378378,
+      "lo": 36.83299846,
+      "hi": 50.98748177
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Biyoloji",
+      "n": 66,
+      "late": 27,
+      "rate": 40.90909091,
+      "lo": 29.86723458,
+      "hi": 52.95102846
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Dil",
+      "n": 21,
+      "late": 7,
+      "rate": 33.33333333,
+      "lo": 17.19453643,
+      "hi": 54.62692434
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Din",
+      "n": 28,
+      "late": 15,
+      "rate": 53.57142857,
+      "lo": 35.81239514,
+      "hi": 70.46869626
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Ekonomi",
+      "n": 84,
+      "late": 38,
+      "rate": 45.23809524,
+      "lo": 35.03554445,
+      "hi": 55.85715331
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Elektronik",
+      "n": 99,
+      "late": 50,
+      "rate": 50.50505051,
+      "lo": 40.82299869,
+      "hi": 60.14937047
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Eğitim",
+      "n": 68,
+      "late": 30,
+      "rate": 44.11764706,
+      "lo": 32.94604499,
+      "hi": 55.91834556
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Felsefe",
+      "n": 55,
+      "late": 29,
+      "rate": 52.72727273,
+      "lo": 39.79131907,
+      "hi": 65.30711469
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Fizik",
+      "n": 96,
+      "late": 40,
+      "rate": 41.66666667,
+      "lo": 32.31140126,
+      "hi": 51.66321453
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Hikâye",
+      "n": 34,
+      "late": 13,
+      "rate": 38.23529412,
+      "lo": 23.89996485,
+      "hi": 54.95928
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Kimya",
+      "n": 67,
+      "late": 35,
+      "rate": 52.23880597,
+      "lo": 40.48498853,
+      "hi": 63.74981136
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Matematik",
+      "n": 179,
+      "late": 91,
+      "rate": 50.83798883,
+      "lo": 43.57387303,
+      "hi": 58.06689143
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Mühendislik",
+      "n": 82,
+      "late": 33,
+      "rate": 40.24390244,
+      "lo": 30.29727591,
+      "hi": 51.06374253
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Psikoloji",
+      "n": 115,
+      "late": 44,
+      "rate": 38.26086957,
+      "lo": 29.89375457,
+      "hi": 47.38692829
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Roman",
+      "n": 32,
+      "late": 14,
+      "rate": 43.75,
+      "lo": 28.16508597,
+      "hi": 60.67469797
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Sanat",
+      "n": 33,
+      "late": 13,
+      "rate": 39.39393939,
+      "lo": 24.68288223,
+      "hi": 56.31685719
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Tarih",
+      "n": 72,
+      "late": 35,
+      "rate": 48.61111111,
+      "lo": 37.43248074,
+      "hi": 59.93044409
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Tıp",
+      "n": 59,
+      "late": 31,
+      "rate": 52.54237288,
+      "lo": 40.03957676,
+      "hi": 64.73433097
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "İşletme",
+      "n": 190,
+      "late": 84,
+      "rate": 44.21052632,
+      "lo": 37.33280293,
+      "hi": 51.3177241
+    },
+    {
+      "year": 2021,
+      "library": "Merkez",
+      "category": "Şiir",
+      "n": 37,
+      "late": 14,
+      "rate": 37.83783784,
+      "lo": 24.06378746,
+      "hi": 53.89985745
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Bilgisayar Bilimi",
+      "n": 91,
+      "late": 42,
+      "rate": 46.15384615,
+      "lo": 36.27526244,
+      "hi": 56.34401012
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Biyoloji",
+      "n": 29,
+      "late": 13,
+      "rate": 44.82758621,
+      "lo": 28.41291115,
+      "hi": 62.45233293
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Dil",
+      "n": 11,
+      "late": 3,
+      "rate": 27.27272727,
+      "lo": 9.74588057,
+      "hi": 56.5650293
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Din",
+      "n": 18,
+      "late": 7,
+      "rate": 38.88888889,
+      "lo": 20.30499193,
+      "hi": 61.38133142
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Ekonomi",
+      "n": 42,
+      "late": 15,
+      "rate": 35.71428571,
+      "lo": 22.9889925,
+      "hi": 50.83391071
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Elektronik",
+      "n": 47,
+      "late": 17,
+      "rate": 36.17021277,
+      "lo": 23.96602229,
+      "hi": 50.46436543
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Eğitim",
+      "n": 30,
+      "late": 17,
+      "rate": 56.66666667,
+      "lo": 39.19700955,
+      "hi": 72.62276257
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Felsefe",
+      "n": 28,
+      "late": 16,
+      "rate": 57.14285714,
+      "lo": 39.07047899,
+      "hi": 73.49170382
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Fizik",
+      "n": 46,
+      "late": 25,
+      "rate": 54.34782609,
+      "lo": 40.17993497,
+      "hi": 67.84548958
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Hikâye",
+      "n": 20,
+      "late": 12,
+      "rate": 60.0,
+      "lo": 38.65779423,
+      "hi": 78.11960326
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Kimya",
+      "n": 36,
+      "late": 14,
+      "rate": 38.88888889,
+      "lo": 24.78465542,
+      "hi": 55.1358297
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Matematik",
+      "n": 90,
+      "late": 39,
+      "rate": 43.33333333,
+      "lo": 33.57640526,
+      "hi": 53.63608898
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Mühendislik",
+      "n": 45,
+      "late": 18,
+      "rate": 40.0,
+      "lo": 27.02467945,
+      "hi": 54.54840579
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Psikoloji",
+      "n": 67,
+      "late": 29,
+      "rate": 43.28358209,
+      "lo": 32.10412334,
+      "hi": 55.19147698
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Roman",
+      "n": 19,
+      "late": 9,
+      "rate": 47.36842105,
+      "lo": 27.32950549,
+      "hi": 68.29251749
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Sanat",
+      "n": 9,
+      "late": 4,
+      "rate": 44.44444444,
+      "lo": 18.87754295,
+      "hi": 73.33526543
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Tarih",
+      "n": 30,
+      "late": 13,
+      "rate": 43.33333333,
+      "lo": 27.37723743,
+      "hi": 60.80299045
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Tıp",
+      "n": 29,
+      "late": 14,
+      "rate": 48.27586207,
+      "lo": 31.38581933,
+      "hi": 65.56926203
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "İşletme",
+      "n": 84,
+      "late": 32,
+      "rate": 38.0952381,
+      "lo": 28.44698839,
+      "hi": 48.78475602
+    },
+    {
+      "year": 2021,
+      "library": "Mühendislik",
+      "category": "Şiir",
+      "n": 16,
+      "late": 7,
+      "rate": 43.75,
+      "lo": 23.09836334,
+      "hi": 66.82180439
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Bilgisayar Bilimi",
+      "n": 23,
+      "late": 10,
+      "rate": 43.47826087,
+      "lo": 25.63436833,
+      "hi": 63.18895069
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Biyoloji",
+      "n": 8,
+      "late": 4,
+      "rate": 50.0,
+      "lo": 21.52125268,
+      "hi": 78.47874732
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Dil",
+      "n": 3,
+      "late": 1,
+      "rate": 33.33333333,
+      "lo": 6.14903153,
+      "hi": 79.23450449
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Din",
+      "n": 5,
+      "late": 2,
+      "rate": 40.0,
+      "lo": 11.76182312,
+      "hi": 76.92800678
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Ekonomi",
+      "n": 14,
+      "late": 8,
+      "rate": 57.14285714,
+      "lo": 32.5902669,
+      "hi": 78.61949007
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Elektronik",
+      "n": 12,
+      "late": 3,
+      "rate": 25.0,
+      "lo": 8.89400396,
+      "hi": 53.23103391
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Eğitim",
+      "n": 12,
+      "late": 7,
+      "rate": 58.33333333,
+      "lo": 31.95073357,
+      "hi": 80.67425381
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Felsefe",
+      "n": 9,
+      "late": 3,
+      "rate": 33.33333333,
+      "lo": 12.05815987,
+      "hi": 64.58026525
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Fizik",
+      "n": 15,
+      "late": 8,
+      "rate": 53.33333333,
+      "lo": 30.11663015,
+      "hi": 75.19077474
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Hikâye",
+      "n": 2,
+      "late": 2,
+      "rate": 100.0,
+      "lo": 34.23719529,
+      "hi": 100.0
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Kimya",
+      "n": 14,
+      "late": 7,
+      "rate": 50.0,
+      "lo": 26.79886792,
+      "hi": 73.20113208
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Matematik",
+      "n": 29,
+      "late": 18,
+      "rate": 62.06896552,
+      "lo": 44.00222621,
+      "hi": 77.31220427
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Mühendislik",
+      "n": 25,
+      "late": 15,
+      "rate": 60.0,
+      "lo": 40.73912779,
+      "hi": 76.59694234
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Psikoloji",
+      "n": 17,
+      "late": 8,
+      "rate": 47.05882353,
+      "lo": 26.1648012,
+      "hi": 69.03710269
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Roman",
+      "n": 9,
+      "late": 6,
+      "rate": 66.66666667,
+      "lo": 35.41973475,
+      "hi": 87.94184013
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Sanat",
+      "n": 6,
+      "late": 3,
+      "rate": 50.0,
+      "lo": 18.76128069,
+      "hi": 81.23871931
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Tarih",
+      "n": 13,
+      "late": 5,
+      "rate": 38.46153846,
+      "lo": 17.70944658,
+      "hi": 64.47751903
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Tıp",
+      "n": 11,
+      "late": 7,
+      "rate": 63.63636364,
+      "lo": 35.37967769,
+      "hi": 84.83377639
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "İşletme",
+      "n": 28,
+      "late": 13,
+      "rate": 46.42857143,
+      "lo": 29.53130374,
+      "hi": 64.18760486
+    },
+    {
+      "year": 2021,
+      "library": "Tıp",
+      "category": "Şiir",
+      "n": 9,
+      "late": 3,
+      "rate": 33.33333333,
+      "lo": 12.05815987,
+      "hi": 64.58026525
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Bilgisayar Bilimi",
+      "n": 219,
+      "late": 100,
+      "rate": 45.66210046,
+      "lo": 39.19631075,
+      "hi": 52.27745357
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Biyoloji",
+      "n": 84,
+      "late": 37,
+      "rate": 44.04761905,
+      "lo": 33.92278218,
+      "hi": 54.69309003
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Dil",
+      "n": 32,
+      "late": 17,
+      "rate": 53.125,
+      "lo": 36.44923793,
+      "hi": 69.1308701
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Din",
+      "n": 36,
+      "late": 12,
+      "rate": 33.33333333,
+      "lo": 20.21442477,
+      "hi": 49.66630291
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Ekonomi",
+      "n": 116,
+      "late": 59,
+      "rate": 50.86206897,
+      "lo": 41.88367739,
+      "hi": 59.78519219
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Elektronik",
+      "n": 126,
+      "late": 59,
+      "rate": 46.82539683,
+      "lo": 38.33575218,
+      "hi": 55.5028943
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Eğitim",
+      "n": 71,
+      "late": 31,
+      "rate": 43.66197183,
+      "lo": 32.74593796,
+      "hi": 55.2286644
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Felsefe",
+      "n": 45,
+      "late": 18,
+      "rate": 40.0,
+      "lo": 27.02467945,
+      "hi": 54.54840579
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Fizik",
+      "n": 153,
+      "late": 56,
+      "rate": 36.60130719,
+      "lo": 29.38334591,
+      "hi": 44.47563028
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Hikâye",
+      "n": 41,
+      "late": 16,
+      "rate": 39.02439024,
+      "lo": 25.65593522,
+      "hi": 54.2734161
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Kimya",
+      "n": 76,
+      "late": 28,
+      "rate": 36.84210526,
+      "lo": 26.87525868,
+      "hi": 48.07514311
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Matematik",
+      "n": 263,
+      "late": 129,
+      "rate": 49.04942966,
+      "lo": 43.06490083,
+      "hi": 55.06132837
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Mühendislik",
+      "n": 129,
+      "late": 48,
+      "rate": 37.20930233,
+      "lo": 29.35105129,
+      "hi": 45.80733284
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Psikoloji",
+      "n": 156,
+      "late": 74,
+      "rate": 47.43589744,
+      "lo": 39.75605833,
+      "hi": 55.23898676
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Roman",
+      "n": 35,
+      "late": 14,
+      "rate": 40.0,
+      "lo": 25.55050493,
+      "hi": 56.42758042
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Sanat",
+      "n": 24,
+      "late": 9,
+      "rate": 37.5,
+      "lo": 21.15913343,
+      "hi": 57.29038096
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Tarih",
+      "n": 101,
+      "late": 46,
+      "rate": 45.54455446,
+      "lo": 36.17344476,
+      "hi": 55.24217652
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Tıp",
+      "n": 89,
+      "late": 41,
+      "rate": 46.06741573,
+      "lo": 36.08954818,
+      "hi": 56.37072824
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "İşletme",
+      "n": 226,
+      "late": 101,
+      "rate": 44.69026549,
+      "lo": 38.35079793,
+      "hi": 51.20722812
+    },
+    {
+      "year": 2022,
+      "library": "Merkez",
+      "category": "Şiir",
+      "n": 43,
+      "late": 21,
+      "rate": 48.8372093,
+      "lo": 34.61720928,
+      "hi": 63.24793623
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Bilgisayar Bilimi",
+      "n": 118,
+      "late": 52,
+      "rate": 44.06779661,
+      "lo": 35.43729179,
+      "hi": 53.07237979
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Biyoloji",
+      "n": 36,
+      "late": 16,
+      "rate": 44.44444444,
+      "lo": 29.54102988,
+      "hi": 60.41921268
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Dil",
+      "n": 18,
+      "late": 7,
+      "rate": 38.88888889,
+      "lo": 20.30499193,
+      "hi": 61.38133142
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Din",
+      "n": 16,
+      "late": 7,
+      "rate": 43.75,
+      "lo": 23.09836334,
+      "hi": 66.82180439
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Ekonomi",
+      "n": 51,
+      "late": 27,
+      "rate": 52.94117647,
+      "lo": 39.52307134,
+      "hi": 65.94722857
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Elektronik",
+      "n": 64,
+      "late": 28,
+      "rate": 43.75,
+      "lo": 32.29381707,
+      "hi": 55.91400822
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Eğitim",
+      "n": 28,
+      "late": 15,
+      "rate": 53.57142857,
+      "lo": 35.81239514,
+      "hi": 70.46869626
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Felsefe",
+      "n": 34,
+      "late": 17,
+      "rate": 50.0,
+      "lo": 34.06906263,
+      "hi": 65.93093737
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Fizik",
+      "n": 69,
+      "late": 34,
+      "rate": 49.27536232,
+      "lo": 37.83222449,
+      "hi": 60.79493362
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Hikâye",
+      "n": 22,
+      "late": 12,
+      "rate": 54.54545455,
+      "lo": 34.65947329,
+      "hi": 73.07998557
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Kimya",
+      "n": 45,
+      "late": 18,
+      "rate": 40.0,
+      "lo": 27.02467945,
+      "hi": 54.54840579
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Matematik",
+      "n": 127,
+      "late": 56,
+      "rate": 44.09448819,
+      "lo": 35.7585985,
+      "hi": 52.77715771
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Mühendislik",
+      "n": 63,
+      "late": 29,
+      "rate": 46.03174603,
+      "lo": 34.30866542,
+      "hi": 58.21096308
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Psikoloji",
+      "n": 89,
+      "late": 42,
+      "rate": 47.19101124,
+      "lo": 37.15184759,
+      "hi": 57.46263558
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Roman",
+      "n": 29,
+      "late": 10,
+      "rate": 34.48275862,
+      "lo": 19.94050875,
+      "hi": 52.65522349
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Sanat",
+      "n": 17,
+      "late": 7,
+      "rate": 41.17647059,
+      "lo": 21.61078604,
+      "hi": 63.99492561
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Tarih",
+      "n": 34,
+      "late": 20,
+      "rate": 58.82352941,
+      "lo": 42.22130415,
+      "hi": 73.63426221
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Tıp",
+      "n": 36,
+      "late": 21,
+      "rate": 58.33333333,
+      "lo": 42.19996966,
+      "hi": 72.85966649
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "İşletme",
+      "n": 115,
+      "late": 56,
+      "rate": 48.69565217,
+      "lo": 39.7511459,
+      "hi": 57.72448553
+    },
+    {
+      "year": 2022,
+      "library": "Mühendislik",
+      "category": "Şiir",
+      "n": 16,
+      "late": 9,
+      "rate": 56.25,
+      "lo": 33.17819561,
+      "hi": 76.90163666
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Bilgisayar Bilimi",
+      "n": 37,
+      "late": 18,
+      "rate": 48.64864865,
+      "lo": 33.44615333,
+      "hi": 64.10536277
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Biyoloji",
+      "n": 13,
+      "late": 7,
+      "rate": 53.84615385,
+      "lo": 29.14343243,
+      "hi": 76.7942457
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Dil",
+      "n": 6,
+      "late": 2,
+      "rate": 33.33333333,
+      "lo": 9.67693326,
+      "hi": 70.00116787
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Din",
+      "n": 5,
+      "late": 3,
+      "rate": 60.0,
+      "lo": 23.07199322,
+      "hi": 88.23817688
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Ekonomi",
+      "n": 22,
+      "late": 5,
+      "rate": 22.72727273,
+      "lo": 10.12289079,
+      "hi": 43.44035606
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Elektronik",
+      "n": 18,
+      "late": 11,
+      "rate": 61.11111111,
+      "lo": 38.61866858,
+      "hi": 79.69500807
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Eğitim",
+      "n": 6,
+      "late": 4,
+      "rate": 66.66666667,
+      "lo": 29.99883213,
+      "hi": 90.32306674
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Felsefe",
+      "n": 8,
+      "late": 6,
+      "rate": 75.0,
+      "lo": 40.92698791,
+      "hi": 92.85223111
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Fizik",
+      "n": 19,
+      "late": 7,
+      "rate": 36.84210526,
+      "lo": 19.14927238,
+      "hi": 58.9608425
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Hikâye",
+      "n": 6,
+      "late": 0,
+      "rate": 0.0,
+      "lo": 0.0,
+      "hi": 39.03430337
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Kimya",
+      "n": 17,
+      "late": 9,
+      "rate": 52.94117647,
+      "lo": 30.96289731,
+      "hi": 73.8351988
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Matematik",
+      "n": 51,
+      "late": 25,
+      "rate": 49.01960784,
+      "lo": 35.85726214,
+      "hi": 62.31930455
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Mühendislik",
+      "n": 19,
+      "late": 7,
+      "rate": 36.84210526,
+      "lo": 19.14927238,
+      "hi": 58.9608425
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Psikoloji",
+      "n": 24,
+      "late": 13,
+      "rate": 54.16666667,
+      "lo": 35.07455355,
+      "hi": 72.10894165
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Roman",
+      "n": 8,
+      "late": 4,
+      "rate": 50.0,
+      "lo": 21.52125268,
+      "hi": 78.47874732
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Sanat",
+      "n": 3,
+      "late": 1,
+      "rate": 33.33333333,
+      "lo": 6.14903153,
+      "hi": 79.23450449
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Tarih",
+      "n": 14,
+      "late": 8,
+      "rate": 57.14285714,
+      "lo": 32.5902669,
+      "hi": 78.61949007
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Tıp",
+      "n": 10,
+      "late": 2,
+      "rate": 20.0,
+      "lo": 5.6680948,
+      "hi": 50.98431533
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "İşletme",
+      "n": 40,
+      "late": 16,
+      "rate": 40.0,
+      "lo": 26.34811061,
+      "hi": 55.40438017
+    },
+    {
+      "year": 2022,
+      "library": "Tıp",
+      "category": "Şiir",
+      "n": 5,
+      "late": 0,
+      "rate": 0.0,
+      "lo": -0.0,
+      "hi": 43.44914948
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Bilgisayar Bilimi",
+      "n": 217,
+      "late": 102,
+      "rate": 47.00460829,
+      "lo": 40.47379503,
+      "hi": 53.63963287
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Biyoloji",
+      "n": 86,
+      "late": 50,
+      "rate": 58.13953488,
+      "lo": 47.58426436,
+      "hi": 67.99871724
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Dil",
+      "n": 36,
+      "late": 21,
+      "rate": 58.33333333,
+      "lo": 42.19996966,
+      "hi": 72.85966649
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Din",
+      "n": 42,
+      "late": 19,
+      "rate": 45.23809524,
+      "lo": 31.22316382,
+      "hi": 60.05113725
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Ekonomi",
+      "n": 95,
+      "late": 46,
+      "rate": 48.42105263,
+      "lo": 38.62988589,
+      "hi": 58.33495483
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Elektronik",
+      "n": 126,
+      "late": 49,
+      "rate": 38.88888889,
+      "lo": 30.8258242,
+      "hi": 47.60943846
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Eğitim",
+      "n": 78,
+      "late": 35,
+      "rate": 44.87179487,
+      "lo": 34.3341919,
+      "hi": 55.89082814
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Felsefe",
+      "n": 56,
+      "late": 29,
+      "rate": 51.78571429,
+      "lo": 39.01016225,
+      "hi": 64.33199438
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Fizik",
+      "n": 139,
+      "late": 63,
+      "rate": 45.32374101,
+      "lo": 37.28476197,
+      "hi": 53.61424784
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Hikâye",
+      "n": 34,
+      "late": 18,
+      "rate": 52.94117647,
+      "lo": 36.73644042,
+      "hi": 68.54874837
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Kimya",
+      "n": 76,
+      "late": 35,
+      "rate": 46.05263158,
+      "lo": 35.30754655,
+      "hi": 57.17757399
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Matematik",
+      "n": 265,
+      "late": 136,
+      "rate": 51.32075472,
+      "lo": 45.32701217,
+      "hi": 57.27675154
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Mühendislik",
+      "n": 131,
+      "late": 58,
+      "rate": 44.27480916,
+      "lo": 36.05239,
+      "hi": 52.82344654
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Psikoloji",
+      "n": 151,
+      "late": 78,
+      "rate": 51.65562914,
+      "lo": 43.74319015,
+      "hi": 59.48591624
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Roman",
+      "n": 29,
+      "late": 12,
+      "rate": 41.37931034,
+      "lo": 25.51293528,
+      "hi": 59.26247152
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Sanat",
+      "n": 33,
+      "late": 10,
+      "rate": 30.3030303,
+      "lo": 17.37534781,
+      "hi": 47.33845397
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Tarih",
+      "n": 114,
+      "late": 52,
+      "rate": 45.61403509,
+      "lo": 36.76298672,
+      "hi": 54.75104568
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Tıp",
+      "n": 79,
+      "late": 29,
+      "rate": 36.70886076,
+      "lo": 26.92713127,
+      "hi": 47.72328591
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "İşletme",
+      "n": 215,
+      "late": 97,
+      "rate": 45.11627907,
+      "lo": 38.60850541,
+      "hi": 51.79551284
+    },
+    {
+      "year": 2023,
+      "library": "Merkez",
+      "category": "Şiir",
+      "n": 45,
+      "late": 24,
+      "rate": 53.33333333,
+      "lo": 39.07720886,
+      "hi": 67.06509606
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Bilgisayar Bilimi",
+      "n": 129,
+      "late": 53,
+      "rate": 41.08527132,
+      "lo": 32.97259791,
+      "hi": 49.7135486
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Biyoloji",
+      "n": 50,
+      "late": 21,
+      "rate": 42.0,
+      "lo": 29.37479723,
+      "hi": 55.76680331
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Dil",
+      "n": 12,
+      "late": 5,
+      "rate": 41.66666667,
+      "lo": 19.32574619,
+      "hi": 68.04926643
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Din",
+      "n": 13,
+      "late": 6,
+      "rate": 46.15384615,
+      "lo": 23.2057543,
+      "hi": 70.85656757
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Ekonomi",
+      "n": 62,
+      "late": 28,
+      "rate": 45.16129032,
+      "lo": 33.41951477,
+      "hi": 57.46770547
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Elektronik",
+      "n": 57,
+      "late": 28,
+      "rate": 49.12280702,
+      "lo": 36.61606806,
+      "hi": 61.74031967
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Eğitim",
+      "n": 27,
+      "late": 11,
+      "rate": 40.74074074,
+      "lo": 24.51451337,
+      "hi": 59.27361694
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Felsefe",
+      "n": 21,
+      "late": 11,
+      "rate": 52.38095238,
+      "lo": 32.3692179,
+      "hi": 71.6562877
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Fizik",
+      "n": 62,
+      "late": 33,
+      "rate": 53.22580645,
+      "lo": 40.98381738,
+      "hi": 65.09136913
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Hikâye",
+      "n": 27,
+      "late": 17,
+      "rate": 62.96296296,
+      "lo": 44.22890462,
+      "hi": 78.46771293
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Kimya",
+      "n": 31,
+      "late": 11,
+      "rate": 35.48387097,
+      "lo": 21.11644774,
+      "hi": 53.05236196
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Matematik",
+      "n": 130,
+      "late": 62,
+      "rate": 47.69230769,
+      "lo": 39.29639354,
+      "hi": 56.22069532
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Mühendislik",
+      "n": 55,
+      "late": 23,
+      "rate": 41.81818182,
+      "lo": 29.73756705,
+      "hi": 54.96713167
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Psikoloji",
+      "n": 84,
+      "late": 39,
+      "rate": 46.42857143,
+      "lo": 36.15405045,
+      "hi": 57.01547288
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Roman",
+      "n": 17,
+      "late": 10,
+      "rate": 58.82352941,
+      "lo": 36.00507439,
+      "hi": 78.38921396
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Sanat",
+      "n": 10,
+      "late": 8,
+      "rate": 80.0,
+      "lo": 49.01568467,
+      "hi": 94.3319052
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Tarih",
+      "n": 48,
+      "late": 22,
+      "rate": 45.83333333,
+      "lo": 32.57502185,
+      "hi": 59.70916691
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Tıp",
+      "n": 52,
+      "late": 27,
+      "rate": 51.92307692,
+      "lo": 38.68545397,
+      "hi": 64.8961053
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "İşletme",
+      "n": 115,
+      "late": 57,
+      "rate": 49.56521739,
+      "lo": 40.58997052,
+      "hi": 58.56857329
+    },
+    {
+      "year": 2023,
+      "library": "Mühendislik",
+      "category": "Şiir",
+      "n": 32,
+      "late": 12,
+      "rate": 37.5,
+      "lo": 22.93366847,
+      "hi": 54.74589941
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Bilgisayar Bilimi",
+      "n": 45,
+      "late": 20,
+      "rate": 44.44444444,
+      "lo": 30.93870855,
+      "hi": 58.82411658
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Biyoloji",
+      "n": 9,
+      "late": 4,
+      "rate": 44.44444444,
+      "lo": 18.87754295,
+      "hi": 73.33526543
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Dil",
+      "n": 9,
+      "late": 7,
+      "rate": 77.77777778,
+      "lo": 45.25833437,
+      "hi": 93.67762377
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Din",
+      "n": 9,
+      "late": 3,
+      "rate": 33.33333333,
+      "lo": 12.05815987,
+      "hi": 64.58026525
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Ekonomi",
+      "n": 23,
+      "late": 10,
+      "rate": 43.47826087,
+      "lo": 25.63436833,
+      "hi": 63.18895069
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Elektronik",
+      "n": 20,
+      "late": 6,
+      "rate": 30.0,
+      "lo": 14.5475274,
+      "hi": 51.89767762
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Eğitim",
+      "n": 13,
+      "late": 6,
+      "rate": 46.15384615,
+      "lo": 23.2057543,
+      "hi": 70.85656757
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Felsefe",
+      "n": 13,
+      "late": 7,
+      "rate": 53.84615385,
+      "lo": 29.14343243,
+      "hi": 76.7942457
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Fizik",
+      "n": 28,
+      "late": 8,
+      "rate": 28.57142857,
+      "lo": 15.25381585,
+      "hi": 47.05963574
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Hikâye",
+      "n": 12,
+      "late": 6,
+      "rate": 50.0,
+      "lo": 25.37781704,
+      "hi": 74.62218296
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Kimya",
+      "n": 8,
+      "late": 3,
+      "rate": 37.5,
+      "lo": 13.68417595,
+      "hi": 69.42621454
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Matematik",
+      "n": 40,
+      "late": 21,
+      "rate": 52.5,
+      "lo": 37.49710685,
+      "hi": 67.06477045
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Mühendislik",
+      "n": 16,
+      "late": 5,
+      "rate": 31.25,
+      "lo": 14.16443505,
+      "hi": 55.59606813
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Psikoloji",
+      "n": 23,
+      "late": 9,
+      "rate": 39.13043478,
+      "lo": 22.15737798,
+      "hi": 59.2148204
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Roman",
+      "n": 7,
+      "late": 2,
+      "rate": 28.57142857,
+      "lo": 8.22171657,
+      "hi": 64.10709099
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Sanat",
+      "n": 7,
+      "late": 4,
+      "rate": 57.14285714,
+      "lo": 25.04542304,
+      "hi": 84.17830777
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Tarih",
+      "n": 17,
+      "late": 8,
+      "rate": 47.05882353,
+      "lo": 26.1648012,
+      "hi": 69.03710269
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Tıp",
+      "n": 13,
+      "late": 6,
+      "rate": 46.15384615,
+      "lo": 23.2057543,
+      "hi": 70.85656757
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "İşletme",
+      "n": 41,
+      "late": 14,
+      "rate": 34.14634146,
+      "lo": 21.55861737,
+      "hi": 49.45044565
+    },
+    {
+      "year": 2023,
+      "library": "Tıp",
+      "category": "Şiir",
+      "n": 10,
+      "late": 4,
+      "rate": 40.0,
+      "lo": 16.81775812,
+      "hi": 68.73304525
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Bilgisayar Bilimi",
+      "n": 269,
+      "late": 103,
+      "rate": 38.28996283,
+      "lo": 32.68453813,
+      "hi": 44.22514133
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Biyoloji",
+      "n": 95,
+      "late": 49,
+      "rate": 51.57894737,
+      "lo": 41.66504517,
+      "hi": 61.37011411
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Dil",
+      "n": 26,
+      "late": 8,
+      "rate": 30.76923077,
+      "lo": 16.50112094,
+      "hi": 49.98861151
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Din",
+      "n": 36,
+      "late": 14,
+      "rate": 38.88888889,
+      "lo": 24.78465542,
+      "hi": 55.1358297
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Ekonomi",
+      "n": 123,
+      "late": 44,
+      "rate": 35.77235772,
+      "lo": 27.8503383,
+      "hi": 44.55619078
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Elektronik",
+      "n": 134,
+      "late": 58,
+      "rate": 43.28358209,
+      "lo": 35.19719368,
+      "hi": 51.74433921
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Eğitim",
+      "n": 80,
+      "late": 33,
+      "rate": 41.25,
+      "lo": 31.10568651,
+      "hi": 52.19615887
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Felsefe",
+      "n": 61,
+      "late": 23,
+      "rate": 37.70491803,
+      "lo": 26.61433043,
+      "hi": 50.25237243
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Fizik",
+      "n": 150,
+      "late": 66,
+      "rate": 44.0,
+      "lo": 36.30436095,
+      "hi": 51.99529272
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Hikâye",
+      "n": 68,
+      "late": 26,
+      "rate": 38.23529412,
+      "lo": 27.6092753,
+      "hi": 50.1195058
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Kimya",
+      "n": 92,
+      "late": 41,
+      "rate": 44.56521739,
+      "lo": 34.82964006,
+      "hi": 54.73647736
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Matematik",
+      "n": 260,
+      "late": 110,
+      "rate": 42.30769231,
+      "lo": 36.45717637,
+      "hi": 48.38221211
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Mühendislik",
+      "n": 123,
+      "late": 66,
+      "rate": 53.65853659,
+      "lo": 44.86882772,
+      "hi": 62.22663623
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Psikoloji",
+      "n": 171,
+      "late": 60,
+      "rate": 35.0877193,
+      "lo": 28.33362955,
+      "hi": 42.49711096
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Roman",
+      "n": 39,
+      "late": 20,
+      "rate": 51.28205128,
+      "lo": 36.19910865,
+      "hi": 66.13507122
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Sanat",
+      "n": 24,
+      "late": 13,
+      "rate": 54.16666667,
+      "lo": 35.07455355,
+      "hi": 72.10894165
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Tarih",
+      "n": 104,
+      "late": 47,
+      "rate": 45.19230769,
+      "lo": 35.96875813,
+      "hi": 54.75838242
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Tıp",
+      "n": 88,
+      "late": 39,
+      "rate": 44.31818182,
+      "lo": 34.39329119,
+      "hi": 54.71839676
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "İşletme",
+      "n": 226,
+      "late": 97,
+      "rate": 42.92035398,
+      "lo": 36.63856167,
+      "hi": 49.43880639
+    },
+    {
+      "year": 2024,
+      "library": "Merkez",
+      "category": "Şiir",
+      "n": 44,
+      "late": 19,
+      "rate": 43.18181818,
+      "lo": 29.68250416,
+      "hi": 57.77610926
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Bilgisayar Bilimi",
+      "n": 132,
+      "late": 63,
+      "rate": 47.72727273,
+      "lo": 39.39166162,
+      "hi": 56.19142928
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Biyoloji",
+      "n": 35,
+      "late": 20,
+      "rate": 57.14285714,
+      "lo": 40.85712926,
+      "hi": 72.01566692
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Dil",
+      "n": 17,
+      "late": 12,
+      "rate": 70.58823529,
+      "lo": 46.86646667,
+      "hi": 86.72020613
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Din",
+      "n": 17,
+      "late": 5,
+      "rate": 29.41176471,
+      "lo": 13.27979387,
+      "hi": 53.13353333
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Ekonomi",
+      "n": 69,
+      "late": 22,
+      "rate": 31.88405797,
+      "lo": 22.0946052,
+      "hi": 43.58434748
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Elektronik",
+      "n": 75,
+      "late": 36,
+      "rate": 48.0,
+      "lo": 37.06892176,
+      "hi": 59.12598043
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Eğitim",
+      "n": 38,
+      "late": 20,
+      "rate": 52.63157895,
+      "lo": 37.25871074,
+      "hi": 67.52122119
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Felsefe",
+      "n": 25,
+      "late": 9,
+      "rate": 36.0,
+      "lo": 20.24765643,
+      "hi": 55.4818454
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Fizik",
+      "n": 80,
+      "late": 36,
+      "rate": 45.0,
+      "lo": 34.57751037,
+      "hi": 55.88068699
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Hikâye",
+      "n": 18,
+      "late": 7,
+      "rate": 38.88888889,
+      "lo": 20.30499193,
+      "hi": 61.38133142
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Kimya",
+      "n": 42,
+      "late": 22,
+      "rate": 52.38095238,
+      "lo": 37.72221394,
+      "hi": 66.64063552
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Matematik",
+      "n": 131,
+      "late": 51,
+      "rate": 38.93129771,
+      "lo": 31.01054457,
+      "hi": 47.48273941
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Mühendislik",
+      "n": 64,
+      "late": 31,
+      "rate": 48.4375,
+      "lo": 36.63334857,
+      "hi": 60.41860776
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Psikoloji",
+      "n": 71,
+      "late": 33,
+      "rate": 46.47887324,
+      "lo": 35.35825709,
+      "hi": 57.96096644
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Roman",
+      "n": 21,
+      "late": 11,
+      "rate": 52.38095238,
+      "lo": 32.3692179,
+      "hi": 71.6562877
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Sanat",
+      "n": 10,
+      "late": 4,
+      "rate": 40.0,
+      "lo": 16.81775812,
+      "hi": 68.73304525
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Tarih",
+      "n": 48,
+      "late": 18,
+      "rate": 37.5,
+      "lo": 25.2150724,
+      "hi": 51.63749387
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Tıp",
+      "n": 45,
+      "late": 21,
+      "rate": 46.66666667,
+      "lo": 32.93490394,
+      "hi": 60.92279114
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "İşletme",
+      "n": 116,
+      "late": 52,
+      "rate": 44.82758621,
+      "lo": 36.08783145,
+      "hi": 53.89895111
+    },
+    {
+      "year": 2024,
+      "library": "Mühendislik",
+      "category": "Şiir",
+      "n": 18,
+      "late": 6,
+      "rate": 33.33333333,
+      "lo": 16.27855436,
+      "hi": 56.25093066
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Bilgisayar Bilimi",
+      "n": 35,
+      "late": 18,
+      "rate": 51.42857143,
+      "lo": 35.56853963,
+      "hi": 67.00601961
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Biyoloji",
+      "n": 19,
+      "late": 3,
+      "rate": 15.78947368,
+      "lo": 5.52037104,
+      "hi": 37.56592764
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Dil",
+      "n": 3,
+      "late": 0,
+      "rate": 0.0,
+      "lo": 0.0,
+      "hi": 56.15060804
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Din",
+      "n": 5,
+      "late": 1,
+      "rate": 20.0,
+      "lo": 3.6223161,
+      "hi": 62.44717359
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Ekonomi",
+      "n": 20,
+      "late": 10,
+      "rate": 50.0,
+      "lo": 29.92949144,
+      "hi": 70.07050856
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Elektronik",
+      "n": 23,
+      "late": 9,
+      "rate": 39.13043478,
+      "lo": 22.15737798,
+      "hi": 59.2148204
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Eğitim",
+      "n": 12,
+      "late": 3,
+      "rate": 25.0,
+      "lo": 8.89400396,
+      "hi": 53.23103391
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Felsefe",
+      "n": 13,
+      "late": 4,
+      "rate": 30.76923077,
+      "lo": 12.68049716,
+      "hi": 57.63111219
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Fizik",
+      "n": 13,
+      "late": 8,
+      "rate": 61.53846154,
+      "lo": 35.52248097,
+      "hi": 82.29055342
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Hikâye",
+      "n": 6,
+      "late": 3,
+      "rate": 50.0,
+      "lo": 18.76128069,
+      "hi": 81.23871931
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Kimya",
+      "n": 29,
+      "late": 10,
+      "rate": 34.48275862,
+      "lo": 19.94050875,
+      "hi": 52.65522349
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Matematik",
+      "n": 43,
+      "late": 18,
+      "rate": 41.86046512,
+      "lo": 28.38433434,
+      "hi": 56.67168424
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Mühendislik",
+      "n": 13,
+      "late": 7,
+      "rate": 53.84615385,
+      "lo": 29.14343243,
+      "hi": 76.7942457
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Psikoloji",
+      "n": 29,
+      "late": 12,
+      "rate": 41.37931034,
+      "lo": 25.51293528,
+      "hi": 59.26247152
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Roman",
+      "n": 8,
+      "late": 6,
+      "rate": 75.0,
+      "lo": 40.92698791,
+      "hi": 92.85223111
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Sanat",
+      "n": 7,
+      "late": 3,
+      "rate": 42.85714286,
+      "lo": 15.82169223,
+      "hi": 74.95457696
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Tarih",
+      "n": 20,
+      "late": 8,
+      "rate": 40.0,
+      "lo": 21.88039674,
+      "hi": 61.34220577
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Tıp",
+      "n": 26,
+      "late": 11,
+      "rate": 42.30769231,
+      "lo": 25.5441899,
+      "hi": 61.05170308
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "İşletme",
+      "n": 43,
+      "late": 13,
+      "rate": 30.23255814,
+      "lo": 18.60182795,
+      "hi": 45.10564575
+    },
+    {
+      "year": 2024,
+      "library": "Tıp",
+      "category": "Şiir",
+      "n": 7,
+      "late": 5,
+      "rate": 71.42857143,
+      "lo": 35.89290901,
+      "hi": 91.77828343
+    }
+  ],
+  "histogram": [
+    {
+      "label": "1–3 gün",
+      "n": 2419,
+      "share": 36.06679588
+    },
+    {
+      "label": "4–7 gün",
+      "n": 2348,
+      "share": 35.00820039
+    },
+    {
+      "label": "8–14 gün",
+      "n": 1686,
+      "share": 25.13791561
+    },
+    {
+      "label": "15+ gün",
+      "n": 254,
+      "share": 3.78708812
+    }
+  ]
+}

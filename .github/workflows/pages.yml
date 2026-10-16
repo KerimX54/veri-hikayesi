@@ -1,0 +1,47 @@
+name: Veri hikayesi ve portfolyo yayini
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Set site URLs
+        run: python scripts/configure_publish.py "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" "https://github.com/${{ github.repository }}"
+      - name: Install portfolio dependencies
+        working-directory: portfolio-source
+        run: npm install
+      - name: Build portfolio
+        working-directory: portfolio-source
+        env:
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}/portfolyo
+          NEXT_PUBLIC_STORY_URL: /${{ github.event.repository.name }}/
+        run: npm run build
+      - name: Assemble static publication
+        run: |
+          mkdir -p public-site/portfolyo
+          cp -a site/. public-site/
+          cp -a portfolio-source/out/. public-site/portfolyo/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public-site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+

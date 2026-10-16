@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+public-site/
+__pycache__/
+.ipynb_checkpoints/
+*.tsbuildinfo
